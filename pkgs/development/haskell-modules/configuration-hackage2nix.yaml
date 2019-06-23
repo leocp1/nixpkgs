@@ -3219,7 +3219,6 @@ broken-packages:
   - bricks-rendering
   - bricks-syntax
   - brillig
-  - brittany
   - broadcast-chan
   - broadcast-chan-conduit
   - broadcast-chan-pipes
@@ -3255,7 +3254,6 @@ broken-packages:
   - Buster
   - buster-gtk
   - buster-network
-  - butcher
   - butter
   - butterflies
   - bv-sized
